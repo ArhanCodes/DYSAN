@@ -1,7 +1,4 @@
-# DYSAN
-A Discord bot that sends tech-related news. Used in the DCC Discord Server.
-
-# Technologies used
- - [Node.js](https://nodejs.org)\
+# News
+A discord bot that sends tech-related news. Will be used in the DCC Discord Server.
 
 
