@@ -59,7 +59,7 @@ module.exports = {
                     newServer.save()
                     message.channel.send("Server registered.")  
                     const group = client.channels.cache.find(channel => channel.id == message.mentions.channels.first().id)
-                    group.send("@everyone```*Mute this channel to avoid spam notification*```\n Don't tell i didn't warn you")                     
+                    group.send("@everyone```*Mute this channel to avoid spam notification.*```\n Don't say I didn't warn you!")                     
                  } catch (error) {
                     message.channe.send(`500 error : ${error.message}`)
                  } 
