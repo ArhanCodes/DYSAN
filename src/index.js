@@ -111,7 +111,7 @@ client.on("message", (message) => {
                             }
                              }else
                              {
-                                message.channel.send("The command is still under development")
+                                message.channel.send("The command is still under development.")
                                 skip = true;
                               }
                            } catch (error) {
