@@ -23,7 +23,7 @@ module.exports = {
     if (args[0] == "") 
     {
       message.channel.send(
-        '```' + `$ ${path.basename(__filename).split(".")[0]} <timezone> <channel> <Time(12-hour clock timing)>`+ '```' +`\ngo to https://momentjs.com/timezone to get the timezone of your country 🎉`
+        '```' + `$ ${path.basename(__filename).split(".")[0]} <timezone> <channel> <Time(12-hour clock timing)>`+ '```' +`\ngo to https://momentjs.com/timezone to get the timezone of your country.`
       );
     }
 
