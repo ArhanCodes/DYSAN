@@ -1,5 +1,5 @@
 # News
-A discord bot that sends tech related news. Will be used in the Dubai Computing Community [Discord server](https://discord.gg/h2zQpbeFhs).
+A discord bot that sends tech related news. Will be used in the Dubai Computing Community [discord server](https://discord.gg/h2zQpbeFhs).
 
 ![DCC](https://invidget.switchblade.xyz/h2zQpbeFhs)
 
